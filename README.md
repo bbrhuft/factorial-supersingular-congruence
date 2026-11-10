@@ -1,5 +1,7 @@
 # A factorial supersingular congruence and signed discriminant ratios
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24120141.svg)](https://doi.org/10.5281/zenodo.24120141)
+
 **David Jordan** · Maynooth University Social Sciences Institute (MUSSI), Maynooth University · Manuscript v2.0, 9 November 2026
 
 > This paper was split from the combined manuscript *A factorial supersingular congruence and signed discriminant ratios* (v1.13), whose Fricke-Hauptmodul application now forms a separate companion paper, *Supersingular poles and signed residues of prime-level Fricke Hauptmoduln*, in [bbrhuft/fricke-signed-residues](https://github.com/bbrhuft/fricke-signed-residues). The combined versions remain archived on Zenodo: v1.11 ([10.5281/zenodo.24024359](https://doi.org/10.5281/zenodo.24024359)) and v1.13 ([10.5281/zenodo.24084789](https://doi.org/10.5281/zenodo.24084789)).
@@ -36,7 +38,7 @@ This determines the half-exponent sign in Ono's supersingular discriminant-ratio
 
 ## How to cite
 
-Jordan, D. (2026). *A factorial supersingular congruence and signed discriminant ratios: Manuscript, code and data* (Version v2.0) [Computer software]. Zenodo. DOI to be added after the v2.0 release.
+Jordan, D. (2026). *A factorial supersingular congruence and signed discriminant ratios: Manuscript, code and data* (Version v2.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24120141
 
 ## Repository layout
 
